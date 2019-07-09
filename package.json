@@ -1,11 +1,11 @@
 {
   "name": "jquery-text-marquee",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple text marquee plugin for jQuery",
   "main": "src/jquery.text-marquee.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stefanomarra/jquery-text-marquee"
+    "url": "git+https://github.com/stefanomarra/jquery-text-marquee.git"
   },
   "keywords": [
     "jquery-plugin",
@@ -13,11 +13,7 @@
     "marquee",
     "plugins"
   ],
-  "author": {
-    "name": "Stefano Marra",
-    "email": "stefano.marra1987@gmail.com",
-    "url": "https://github.com/stefanomarra"
-  },
+  "author": "Stefano Marra <stefano.marra1987@gmail.com> (https://github.com/stefanomarra)",
   "license": "MIT",
   "dependencies": {},
   "scripts": {
@@ -41,5 +37,12 @@
     "jquery": "^3.4.1",
     "jshint": "^2.10.2",
     "postcss-flexibility": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanomarra/jquery-text-marquee/issues"
+  },
+  "homepage": "https://github.com/stefanomarra/jquery-text-marquee#readme",
+  "directories": {
+    "example": "examples"
   }
 }

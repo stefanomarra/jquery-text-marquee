@@ -10,6 +10,11 @@ Bounce Mode | Loop Mode |
 
 ## Install
 
+ - **NPM:** `npm install jquery-text-marquee`
+ - **CDN:** [jsdelivr.com](https://www.jsdelivr.com/package/npm/jquery-text-marquee)
+```html
+<script src="https://cdn.jsdelivr.net/npm/jquery-text-marquee@0/dist/jquery.text-marquee.min.js"></script>
+```
  - **Download:** [zip](https://github.com/stefanomarra/jquery-text-marquee/archive/master.zip)
 
 ## Usage
