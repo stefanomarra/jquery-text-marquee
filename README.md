@@ -47,8 +47,8 @@ $("#my-text-marquee").textMarquee({
 
 ## Contributing
 
-Check [CONTRIBUTING.md](https://github.com/stefanomarra/jquery-roadmap/blob/master/CONTRIBUTING.md) for more information.
+Check [CONTRIBUTING.md](https://github.com/stefanomarra/jquery-text-marquee/blob/master/CONTRIBUTING.md) for more information.
 
 ## License
 
-[MIT License](https://github.com/stefanomarra/jquery-roadmap/blob/master/LICENSE) © Stefano Marra
+[MIT License](https://github.com/stefanomarra/jquery-text-marquee/blob/master/LICENSE) © Stefano Marra
