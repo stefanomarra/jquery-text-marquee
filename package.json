@@ -1,0 +1,45 @@
+{
+  "name": "jquery-text-marquee",
+  "version": "0.1.0",
+  "description": "A simple text marquee plugin for jQuery",
+  "main": "src/jquery.text-marquee.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanomarra/jquery-text-marquee"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "jquery",
+    "marquee",
+    "plugins"
+  ],
+  "author": {
+    "name": "Stefano Marra",
+    "email": "stefano.marra1987@gmail.com",
+    "url": "https://github.com/stefanomarra"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "",
+    "build": "gulp",
+    "lint": "gulp lint:js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.3",
+    "autoprefixer": "^8.6.5",
+    "flexibility": "^2.0.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.4.1",
+    "jshint": "^2.10.2",
+    "postcss-flexibility": "^2.0.0"
+  }
+}
