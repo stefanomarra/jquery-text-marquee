@@ -4,9 +4,9 @@ A simple plugin for text marquee using jquery and css with some minimal customiz
 
 ## Examples
 
-(https://raw.githubusercontent.com/stefanomarra/jquery-text-marquee/master/examples/bounce.gif)
-
-(https://raw.githubusercontent.com/stefanomarra/jquery-text-marquee/master/examples/loop.gif)
+![Bounce Mode](https://raw.githubusercontent.com/stefanomarra/jquery-text-marquee/master/examples/bounce.gif) | ![Loop Mode](https://raw.githubusercontent.com/stefanomarra/jquery-text-marquee/master/examples/loop.gif)
+:---: | :---: |
+Bounce Mode | Loop Mode |
 
 ## Install
 
