@@ -1,6 +1,12 @@
 # jQuery Text Marquee
 
-This is a simple plugin that shows a text marquee using jquery and css with come minimal customization for now.
+A simple plugin for text marquee using jquery and css with some minimal customization for now.
+
+## Examples
+
+(https://raw.githubusercontent.com/stefanomarra/jquery-text-marquee/master/examples/bounce.gif)
+
+(https://raw.githubusercontent.com/stefanomarra/jquery-text-marquee/master/examples/loop.gif)
 
 ## Install
 
