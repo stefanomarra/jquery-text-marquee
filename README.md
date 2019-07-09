@@ -1,6 +1,6 @@
 # jQuery Text Marquee
 
-A simple plugin for text marquee using jquery and css with some minimal customization for now.
+A simple plugin for text marquee using jQuery and css with some minimal customization for now.
 
 ## Examples
 
